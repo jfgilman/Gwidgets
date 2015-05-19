@@ -1,0 +1,10 @@
+Name,Interaction,Age,Status,Manu,Cl_Grp
+A,N,C,X,X,X
+AM,N,C,X,D,X
+iAM,Y,C,X,D,X
+AS,N,C,D,X,X
+iAS,Y,C,D,X,X
+C,N,X,X,X,D
+AC,N,C,X,X,D
+iAC,Y,C,X,X,D
+AMC,N,C,X,D,D
